@@ -1,0 +1,11 @@
+---
+- - hello
+  - goodbye
+  - red
+  - blue
+- - true
+  - false
+- - 42
+  - '42'
+  - whale
+  - shark
